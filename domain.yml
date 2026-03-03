@@ -1,0 +1,36 @@
+version: "3.1"
+
+intents:
+  - greet
+  - motivation
+  - inspiration
+  - love
+  - funny
+  - success
+  - goodbye
+
+responses:
+  utter_greet:
+    - text: "Hello! I am your QuoteBot 😊 How can I inspire you today?"
+
+  utter_motivation:
+    - text: "Believe in yourself! Every day is a new opportunity."
+
+  utter_inspiration:
+    - text: "Dream big. Start small. Act now."
+
+  utter_love:
+    - text: "Love is not what you say. Love is what you do."
+
+  utter_funny:
+    - text: "I told my computer I needed a break, and it said no problem — it froze 😄"
+
+  utter_success:
+    - text: "Success is the sum of small efforts repeated daily."
+
+  utter_goodbye:
+    - text: "Goodbye! Stay positive and keep smiling 😊"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
