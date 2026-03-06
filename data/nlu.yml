@@ -1,0 +1,74 @@
+version: "3.1"
+
+nlu:
+  - intent: greet
+    examples: |
+      - hi
+      - hello
+      - hey
+      - good morning
+      - good evening
+      - hii
+      - hello chatbot
+      - hey there
+
+  - intent: motivation
+    examples: |
+      - I need motivation
+      - Give me a motivational quote
+      - Motivate me
+      - I feel low
+      - Inspire me to work hard
+      - I need encouragement
+      - Say something motivating
+      - I want motivation
+
+  - intent: inspiration
+    examples: |
+      - Give me an inspirational quote
+      - Inspire me
+      - I want inspiration
+      - Say something inspiring
+      - Inspire me today
+      - I need inspiration
+      - Tell me something inspiring
+
+  - intent: love
+    examples: |
+      - Give me a love quote
+      - I want romantic quotes
+      - Say something about love
+      - Love related quote
+      - Tell me a romantic line
+      - I need a love quote
+      - Say something sweet
+
+  - intent: funny
+    examples: |
+      - Tell me something funny
+      - Give me a funny quote
+      - I want to laugh
+      - Say something humorous
+      - Make me laugh
+      - Tell me a joke
+      - Funny quote please
+
+  - intent: success
+    examples: |
+      - Give me success quote
+      - Quote about success
+      - How to become successful
+      - Motivation for success
+      - I want a success quote
+      - Tell me something about success
+      - Success related quote
+
+  - intent: goodbye
+    examples: |
+      - bye
+      - goodbye
+      - see you
+      - see you later
+      - good night
+      - talk to you later
+      - have a nice day
