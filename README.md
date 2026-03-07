@@ -24,25 +24,36 @@ This chatbot provides an automated solution that instantly recommends motivation
 * GitHub
 
 ---
+## 📁 Project Structure
 
-## 📂 Project Structure
 
-```
 QuoteBot_Project
 │
 ├── data
-│   ├── nlu.yml
-│   └── stories.yml
+│ ├── nlu.yml
+│ ├── stories.yml
+│ └── rules.yml
+│
+├── actions
+│ └── actions.py
+│
+├── tests
+│ └── test_stories.yml
+│
+├── models
+│ └── .gitkeep
+│
+├── Screenshots
+│
+├── Epic-1 (Documentation)
 │
 ├── domain.yml
 ├── config.yml
-├── actions
-├── models
+├── credentials.yml
+├── endpoints.yml
+│
+├── Prerequisites.md
 └── README.md
-└── Epic-1 (Documentation)
-└── Screenshots
-└── Prerequisites.md
-```
 
 ---
 
