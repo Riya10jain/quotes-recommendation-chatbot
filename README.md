@@ -140,3 +140,9 @@ rasa test core
 ## 📚 Acknowledgement
 
 This project was developed as part of the **SmartBridge AI/ML internship program**, focusing on building an intelligent chatbot using the Rasa framework.
+
+---
+
+## img
+
+<img width="1918" height="1033" alt="project" src="https://github.com/user-attachments/assets/6daeea35-b05d-4b3c-8027-467616afe1fe" />
