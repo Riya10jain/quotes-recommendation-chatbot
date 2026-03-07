@@ -39,6 +39,9 @@ QuoteBot_Project
 ├── actions
 ├── models
 └── README.md
+└── Epic-1 (Documentation)
+└── Screenshots
+└── Prerequisites.md
 ```
 
 ---
